@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on Home</title>
+    <link>https://lynnsdataplayground.github.io/portfoliosite/</link>
+    <description>Recent content in Data Science Portfolio on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 30 May 2022 11:25:05 -0400</lastBuildDate><atom:link href="https://lynnsdataplayground.github.io/portfoliosite/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project I: Cyclistic Bikeshare Trip Data Project (Python)</title>
+      <link>https://lynnsdataplayground.github.io/portfoliosite/post/project-1/</link>
+      <pubDate>Mon, 30 May 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://lynnsdataplayground.github.io/portfoliosite/post/project-1/</guid>
+      <description>In this project, I analyzed the monthly trip data of bikeshare company from May 2021 to April 2022. My analysis focused on identifying the yearly trend and monthly changes, as well as how casual riders and member riders&amp;rsquo; riding behaviors differ.
+Language &amp;amp; Tools: Python(packages: pandas, numpy, matplotlib, seaborn)
+Skills: data wrangling, data analysis, data visualization
+GitHub Link: Bikeshare_trip_data_Python_project
+Viz: Number of Rides in Each Month by Rider Type Average Ride Length Change in 12 Months Trend of Riding Popularity by Rider Type Discoveries:</description>
+    </item>
+    
+    <item>
+      <title>Project II: Analysis of the Most Popular Workout Channels (YouTube Data API)</title>
+      <link>https://lynnsdataplayground.github.io/portfoliosite/post/project-2/</link>
+      <pubDate>Wed, 13 Apr 2022 11:15:58 -0400</pubDate>
+      
+      <guid>https://lynnsdataplayground.github.io/portfoliosite/post/project-2/</guid>
+      <description>In this project, I made use of the YouTube Data API to pull data about the most popular YouTube workout channels, and conducted data analysis to extract insights about people&amp;rsquo;s preferences and interests when it comes to online workout videos.
+Languages &amp;amp; Tools: Python(packages: pandas, seaborn), YouTube Data API
+Skills: web scraping, data collection, data cleaning, data analysis
+Github link: Popular_workout_channels_analysis_YouTube_API
+Viz: Most Popular YouTube Workout Channels by Subscribers Top 10 Videos on the Most Popular YouTube Workout Channel Discoveries:</description>
+    </item>
+    
+    <item>
+      <title>Project III: Ecommerce Store Web Traffic Analysis (SQL)</title>
+      <link>https://lynnsdataplayground.github.io/portfoliosite/post/project-3/</link>
+      <pubDate>Tue, 12 Apr 2022 11:14:48 -0400</pubDate>
+      
+      <guid>https://lynnsdataplayground.github.io/portfoliosite/post/project-3/</guid>
+      <description>In this project, I analyzed web traffic data for 5 months (Oct 2019 – Feb 2020) from a medium cosmetics online store. Each row in the dataset represents an event. All events are related to products and users. Each event is like many-to-many relation between products and users.
+Language &amp;amp; Tools: SQL
+Skills: Data cleaning, data wrangling, data Analysis
+GitHub Link: Ecommerce Store Web Traffic SQL Project
+KPIs Calculated:
+Session KPIs: ession with product views, session with add-to-cart, session with remove-from-cart and session with check-out;</description>
+    </item>
+    
+    <item>
+      <title>Tableau Dashboard Collections</title>
+      <link>https://lynnsdataplayground.github.io/portfoliosite/post/project-4/</link>
+      <pubDate>Mon, 11 Apr 2022 11:13:32 -0400</pubDate>
+      
+      <guid>https://lynnsdataplayground.github.io/portfoliosite/post/project-4/</guid>
+      <description>Currently, in my Tableau dashboard collections, I have completed the following dashbaords:
+Conditions contributing to Covid-19 Deaths in the U.S. Dashboard
+Sales and Profits Dashboard
+HR People Analytics dashboard
+Unemployment Statistics in California from 2004 to 2013
+Please click on this link Lynn Xu&amp;rsquo;s Tableau Dashboards to unlock the full interactive experience!</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://lynnsdataplayground.github.io/portfoliosite/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lynnsdataplayground.github.io/portfoliosite/about/</guid>
+      <description>My name is Lynn Xu. I am a driven data analyst with strong analytical skills and substantial experience in analyzing mass data to draw insights and drive business growth. I started pivoting toward data analytics at my current job working as a learning analyst where I analyze user data to extract insights about user behavior and inform product development. I enjoy conducting &amp;ldquo;detective work&amp;rdquo; to uncover the story data has to tell, and pick up new knowledge and skills along the way.</description>
+    </item>
+    
+  </channel>
+</rss>
